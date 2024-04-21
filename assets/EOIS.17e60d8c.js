@@ -1,0 +1,1 @@
+import{r as t,a as r}from"./index.81de7608.js";import{H as e}from"./HomeBredCurbs.1ad3222c.js";import"./index.esm.b0dae23c.js";const i=()=>(t.exports.useState("usa"),r("div",{children:r(e,{title:"EOIS Page "})}));export{i as default};
